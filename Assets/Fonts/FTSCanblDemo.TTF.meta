@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 30f5d93e3eb9d0042bae080e567d621d
+timeCreated: 1485302394
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FT ScandinavianTitan
+  fontNames:
+  - FT ScandinavianTitan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
